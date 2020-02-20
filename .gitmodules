@@ -7,3 +7,8 @@
 	path = RLJO/Royal-Addons2
 	url = git@github.com:RLJO/Royal-Addons.git
 	branch = Stage2
+
+[submodule "RLJO/Royal-Addons1"]
+	path = RLJO/Royal-Addons1
+	url = git@github.com:RLJO/Royal-Addons.git
+	branch = Work
