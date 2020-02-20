@@ -1,0 +1,4 @@
+[submodule "RLJO/Royal-Addons"]
+	path = RLJO/Royal-Addons
+	url = git@github.com:RLJO/Royal-Addons.git
+	branch = Stage1
