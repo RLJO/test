@@ -1,0 +1,4 @@
+[submodule "RLCO/account-analytic"]
+	path = RLCO/account-analytic
+	url = git@github.com:RLCO/account-analytic.git
+	branch = 12.0
