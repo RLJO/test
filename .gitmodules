@@ -7,3 +7,8 @@
 	path = RLJO/test
 	url = git@github.com:RLJO/test.git
 	branch = oca
+
+[submodule "RLJO/All-Apps"]
+	path = RLJO/All-Apps
+	url = git@github.com:RLJO/All-Apps.git
+	branch = RL
