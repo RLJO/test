@@ -2,3 +2,8 @@
 	path = RLCO/Multti-RL
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = OCA1
+
+[submodule "RLJO/test"]
+	path = RLJO/test
+	url = git@github.com:RLJO/test.git
+	branch = oca
