@@ -12,3 +12,8 @@
 	path = RLJO/All-Apps
 	url = git@github.com:RLJO/All-Apps.git
 	branch = RL
+
+[submodule "RLJO/All-Appsj"]
+	path = RLJO/All-Appsj
+	url = git@github.com:RLJO/All-Apps.git
+	branch = RL
