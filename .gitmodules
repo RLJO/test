@@ -12,3 +12,8 @@
 	path = RLJO/Royal-Addons1
 	url = git@github.com:RLJO/Royal-Addons.git
 	branch = Work
+
+[submodule "RLJO/logistic"]
+	path = RLJO/logistic
+	url = git@github.com:RLJO/logistic.git
+	branch = master
