@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="report_invoicelines_comments"
+        inherit_id="professional_templates.invoice_lines">
+    <xpath expr="//div[contains(@t-if, 'o.project_title')]" position="before">
+        <p t-if="o.note1">
+            <span t-field="o.note1"/>
+        </p>
+    </xpath>
+    <xpath expr="//p[@t-if='o.comment']" position="after">
+        <p t-if="o.note2">
+            <span t-field="o.note2"/>
+        </p>
+    </xpath>
+</template>
+</odoo>
