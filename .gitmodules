@@ -2,3 +2,8 @@
 	path = RLCO/account-analytic
 	url = git@github.com:RLCO/account-analytic.git
 	branch = 12.0
+
+[submodule "RLCO/odoo-12.0-pharmacy"]
+	path = RLCO/odoo-12.0-pharmacy
+	url = git@github.com:RLCO/odoo-12.0-pharmacy.git
+	branch = master
