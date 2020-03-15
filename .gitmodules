@@ -7,3 +7,8 @@
 	path = RLCO/odoo-12.0-pharmacy
 	url = git@github.com:RLCO/odoo-12.0-pharmacy.git
 	branch = master
+
+[submodule "CLVsol/clvsol_odoo_addons"]
+	path = CLVsol/clvsol_odoo_addons
+	url = git@github.com:CLVsol/clvsol_odoo_addons.git
+	branch = 12.0
