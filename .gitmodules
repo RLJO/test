@@ -17,3 +17,8 @@
 	path = mtc-jordan/flexipharmacy-odoo
 	url = git@github.com:mtc-jordan/flexipharmacy-odoo.git
 	branch = master
+
+[submodule "RLJO/testing"]
+	path = RLJO/testing
+	url = git@github.com:RLJO/testing.git
+	branch = 13
