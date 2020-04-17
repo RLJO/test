@@ -1,0 +1,4 @@
+[submodule "wwwwwest"]
+	path = wwwwwest
+	url = git@github.com:RLJO/test.git
+	branch = wwwwww
