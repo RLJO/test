@@ -2,3 +2,8 @@
 	path = wwwwwest
 	url = git@github.com:RLJO/test.git
 	branch = wwwwww
+
+[submodule "royalline15-4"]
+	path = royalline15-4
+	url = git@github.com:RLjo/royalline15-4.git
+	branch = MasterApps
