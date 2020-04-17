@@ -2,3 +2,8 @@
 	path = odoo
 	url = git@github.com:RLco/odoo.git
 	branch = 12.0
+
+[submodule "wwwwwtest"]
+	path = wwwwwtest
+	url = git@github.com:RLJO/test.git
+	branch = wwwwww
