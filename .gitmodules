@@ -1,0 +1,4 @@
+[submodule "supermery/odoo-"]
+	path = supermery/odoo-
+	url = git@github.com:supermery/odoo-.git
+	branch = master
